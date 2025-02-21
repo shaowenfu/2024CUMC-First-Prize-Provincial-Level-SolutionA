@@ -169,6 +169,6 @@ ani = FuncAnimation(fig, update, frames=np.arange(0, 500), interval=100, blit=Tr
 # plt.title('Spiral with handle position points and Connecting Lines(300s)')
 from matplotlib.animation import PillowWriter
 
-ani.save("animation.gif", writer=PillowWriter(fps=10))  # fps 是帧率
+ani.save("E:\\all_workspace\\ML\\PyCharm1\\mathematic_A\\results\\problem1_animation.gif", writer=PillowWriter(fps=10))  # fps 是帧率
 
 plt.show()

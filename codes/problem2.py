@@ -218,5 +218,8 @@ if __name__ == "__main__":
     # 创建动画，每1000毫秒（1秒）更新一次
     ani = FuncAnimation(fig, update, frames=np.arange(t[0], t[1], search_time_gap), interval=100)
 
+    from matplotlib.animation import PillowWriter
+
+    ani.save("E:\\all_workspace\\ML\\PyCharm1\\mathematic_A\\results\\problem2_animation.gif", writer=PillowWriter(fps=10))  # fps 是帧率
     # 显示动画
     plt.show()
