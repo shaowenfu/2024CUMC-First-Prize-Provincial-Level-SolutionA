@@ -116,6 +116,7 @@ python codes/calculate_v.py
 ## 👥 Contributors
 
 - Team Members from Sichuan University
+- https://github.com/Gixyuan
 
 ---
 
