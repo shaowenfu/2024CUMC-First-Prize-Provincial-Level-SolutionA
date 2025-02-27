@@ -118,8 +118,8 @@ python codes/calculate_v.py
 ## 👥 贡献者
 
 - 四川大学团队成员
-- https://github.com/Gixyuan
-
+- [Gixyuan](https://github.com/Gixyuan)
+- [SunXiaotian](https://github.com/sss12-22)
 ---
 
 [English](./README.md) | [查看论文](./competition%20essay/我的论文.pdf)
