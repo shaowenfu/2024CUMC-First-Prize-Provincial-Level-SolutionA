@@ -1,5 +1,7 @@
 # Mathematical Modeling of Spiral Motion
 
+[![EN](https://img.shields.io/badge/lang-EN-blue.svg)](./README.md) [![中文](https://img.shields.io/badge/语言-中文-red.svg)](./README_zh.md)
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.20+-green.svg)
 ![SciPy](https://img.shields.io/badge/SciPy-1.7+-orange.svg)
